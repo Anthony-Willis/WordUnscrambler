@@ -1,0 +1,17 @@
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\obj\Debug\wordUnscrambler.unitTest.csproj.AssemblyReference.cache
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\obj\Debug\wordUnscrambler.unitTest.csproj.CoreCompileInputs.cache
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\bin\Debug\wordUnscrambler.unitTest.dll
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\bin\Debug\wordUnscrambler.unitTest.pdb
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\bin\Debug\WordUnscrambler.exe
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\bin\Debug\WordUnscrambler.pdb
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\bin\Debug\WordUnscrambler.exe.config
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\obj\Debug\wordUnscrambler.unitTest.csproj.CopyComplete
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\obj\Debug\wordUnscrambler.unitTest.dll
+C:\Users\anthony.willis\source\repos\WordUnscrambler\wordUnscrambler.unitTest\obj\Debug\wordUnscrambler.unitTest.pdb
